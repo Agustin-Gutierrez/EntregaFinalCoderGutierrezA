@@ -92,6 +92,7 @@ _Para la implementación del sitio se trabajó con las siguientes herramientas i
 
 * Django - Framework de desarrollo web utilizado.
 * VSCode - IDE utilizado.
+* PythonAnywhere - Servicio de alojamiento web.
 
 ## Autores:
 
