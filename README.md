@@ -58,7 +58,7 @@ Starting development server at http://127.0.0.1:8000/
 
 _Abriendo dicha URL en nuestro navegador se debería de ver la página de inicio de nuestra web con un mensaje de bienvenida. El sitio web tiene como función registrar las disciplinas, estadios y jugadores de un club deportivo, permitiendo además visualizar, editar o borrar estos datos._
 
-_Por otra parte se puede acceder a la aplicación web mediante la siguiente URL: http://ausreo.pythonanywhere.com/ . Para hacer esto posible se utilizo 'PythonAnywhere' que es un entorno de desarrollo integrado (IDE) en línea y un servicio de alojamiento web basado en el lenguaje de programación Python._
+_Por otra parte, se puede acceder a la aplicación web mediante la siguiente URL: http://ausreo.pythonanywhere.com/. Para hacer esto posible se utilizó 'PythonAnywhere' que es un entorno de desarrollo integrado (IDE) en línea y un servicio de alojamiento web basado en el lenguaje de programación Python._
 
 _En la parte superior se encuentra un menú que permite el acceso a las 3 páginas con los formularios que permiten cargar datos en la DB (Database) de los modelos. Los modelos son: 'Disciplinas', 'Estadio' y 'Plantel'. En este menú también se brinda la opción de login, la cual funcionara de forma dinámica, permitiendo logearnos o registrarnos en caso de no estar logueados o editar nuestro perfil y cerrar la sesión en caso de si estarlo. Se cuenta además en el menú un acceso al formulario de contacto con los administradores del sitio, en donde se desplegará una vista solicitando datos de contacto y se podrá redactar un mensaje._
 
@@ -83,6 +83,8 @@ _Dentro del directorio del proyecto es importante destacar los ubicados dentro d
 _En el directorio AppClub son de destacar los archivos 'views.py' y 'urls.py' que permiten el acceso a cada uno de los archivos HTML para cada vista del sitio web. En 'models.py' se define cada modelo y los elementos que lo forman, mientras que en 'forms.py' se declaran los formularios para cada clase. En el directorio 'Static' es almacenado todo lo relativo a CSS y JS para el funcionamiento de la página web. El último elemento a destacar en este directorio es 'forms.py' encargado de generar los formularios para la carga de datos de los modelos en la DB._
 
 _La base de datos que almacena los datos generados con los formularios se encuentra en el directorio y se llama 'db.sqlite3'._
+
+_En el archivo 'UnitTest-ProyectoClub.xlsx' se detalla la documentación sobre los casos de prueba realizados sobre la aplicación web._
 
 ## Construido con:
 
