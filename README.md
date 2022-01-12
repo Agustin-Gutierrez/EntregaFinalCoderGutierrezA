@@ -1,6 +1,10 @@
 # Curso Python: Proyecto Final
 _**Objetivos generales:** En equipos (3 o 4 estudiantes, asignados por el tutor), se deberá crear una aplicación web libre, realizando todo lo explicado en los vivos por el docente y que este programada en Python utilizando Django. Esta web tendrá admin, perfiles, registro, páginas y formularios._
 
+### _Video del funcionamiento del sitio:_
+
+_Se puede ver el sitio funcionando en el siguiente video: https://youtu.be/mt1lsFNyA6Y._
+
 ### _**Se debe entregar:**_
 
 _Un video de menos de 10 minutos mostrando el correcto funcionamiento de la web._
